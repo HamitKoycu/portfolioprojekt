@@ -1,7 +1,7 @@
 <template>
    <div class="block galleryBlock">
       <v-container>
-     <h2 class="text-center">Portfolio</h2>
+     <h2 class="text-center">Portfolio2</h2>
           <v-row>
         <v-col
           v-for="items in items"
