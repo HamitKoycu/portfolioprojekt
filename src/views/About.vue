@@ -52,7 +52,7 @@
           src: require("../assets/images/img51.png"),
           name: 'CV',
           title: "Klik her for at downloade mit CV",
-          URLlink: "../assets/images/bcard.pdf"
+          URLlink: "/files/cv.pdf"
         },
         {
           id: 1,
@@ -65,7 +65,7 @@
           src: require("../assets/images/img55.png"),
           name: 'Business card',
           title: "Klik her for at downloade mit Business card",
-          URLlink: "../assets/images/cv.pdf"
+          URLlink: "/files/bcard.pdf"
         },
       ]
     };
